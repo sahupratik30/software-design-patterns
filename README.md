@@ -5,6 +5,7 @@ A curated collection of software design pattern examples and documentation in Ja
 ## Patterns Included
 
 - Singleton
+- Observer
 - (More patterns will be added later)
 
 ## Getting Started
@@ -18,7 +19,12 @@ git clone https://github.com/your-username/software-design-patterns.git
 Navigate to a pattern directory and run the example files using Node.js:
 
 ```bash
+# For Singleton Pattern
 cd software-design-patterns/Singleton\ Pattern
+node example1.js
+
+# For Observer Pattern
+cd ../Observer\ Pattern
 node example.js
 ```
 
