@@ -23,6 +23,7 @@ Navigate to a pattern directory and run the example files using Node.js:
 # For Singleton Pattern
 cd software-design-patterns/Singleton\ Pattern
 node example1.js
+node example2.js
 
 # For Observer Pattern
 cd ../Observer\ Pattern
@@ -30,7 +31,8 @@ node example.js
 
 # For Circuit Breaker Pattern
 cd ../Circuit\ Breaker\ Pattern
-node example.js
+node example1.js
+node example2.js
 ```
 
 ## Contributing
