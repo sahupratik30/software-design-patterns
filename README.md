@@ -6,6 +6,7 @@ A curated collection of software design pattern examples and documentation in Ja
 
 - Singleton
 - Observer
+- Circuit Breaker
 - (More patterns will be added later)
 
 ## Getting Started
@@ -25,6 +26,10 @@ node example1.js
 
 # For Observer Pattern
 cd ../Observer\ Pattern
+node example.js
+
+# For Circuit Breaker Pattern
+cd ../Circuit\ Breaker\ Pattern
 node example.js
 ```
 
